@@ -291,7 +291,6 @@ span {
 }
 
 .about-img {
-    position: relative;
     width: 25rem;
     height: 25rem;
     border-radius: 50%;
@@ -301,7 +300,8 @@ span {
 }
 
 .about-img img {
-    width: 90%;
+    width: 100%;
+
     border-radius: 50%;
     border: .2rem solid var(--main-color);
 }
@@ -313,7 +313,7 @@ span {
     transform: translate(-50%, -50%) rotate(0);
     width: 100%;
     height: 100%;
-    border-radius: 50%;
+    border-radius: 60%;
     border-top: .2rem solid var(--second-bg-color);
     border-bottom: .2rem solid var(--second-bg-color);
     border-left: .2rem solid var(--main-color);

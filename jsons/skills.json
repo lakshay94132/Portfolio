@@ -1,36 +1,40 @@
 {
     "codingSkills": [
         {
-            "name": "C",
+            "name": "JAVA",
             "percent": "90%"
         },
         {
-            "name": "C++",
+            "name": "Python",
             "percent": "80%"
         },
         {
-            "name": "MySQL",
-            "percent": "50%"
-        },
-        {
-            "name": "Java",
-            "percent": "65%"
+            "name": "ReactJS",
+            "percent": "75%"
         },
         {
             "name": "HTML",
-            "percent": "80%"
+            "percent": "90%"
         },
         {
             "name": "CSS",
-            "percent": "70%"
+            "percent": "80%"
         },
         {
             "name": "JavaScript",
+            "percent": "65%"
+        },
+        {
+            "name": "JSX",
             "percent": "50%"
         },
         {
-            "name": "Android XML",
-            "percent": "85%"
+            "name": "MongoDB",
+            "percent": "55%"
+        },
+        {
+            "name": "MySQL",
+            "percent": "60%"
         }
     ],
     "professionalSkills": [
@@ -39,32 +43,29 @@
             "percent": "90%"
         },
         {
-            "name": "Android Studio",
-            "percent": "80%"
-        },
-        {
             "name": "Git",
             "percent": "70%"
-        },
-        {
-            "name": "Figma",
-            "percent": "95%"
         },
         {
             "name": "Microsoft Office",
             "percent": "90%"
         },
         {
-            "name": "Adobe Photoshop",
-            "percent": "75%"
+            "name": "Linked in",
+            "percent": "80%"
         },
         {
-            "name": "Adobe Illustrator",
+            "name": "LeetCode",
+            "percent": "85%"
+        },
+        {
+            "name": "Hacker Rank",
             "percent": "65%"
         },
         {
-            "name": "Adobe Premiere Pro",
-            "percent": "70%"
+            "name": "Canva",
+            "percent": "65%"
         }
+
     ]
 }
